@@ -1,6 +1,6 @@
 # Minigrep
 
-## Quick Implementation of the Minigrep inside in the Rust lang book
+Quick Implementation of the Minigrep inside in the Rust lang book
 
 Run with Case sensitive
 

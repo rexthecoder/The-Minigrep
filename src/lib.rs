@@ -31,7 +31,6 @@ Trust me.";
     }
 }
 
-/// .
 pub fn search<'a>(query: &str, contents: &'a str) -> Vec<&'a str> {
     let mut results = Vec::new();
 
